@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\bin\Debug\MysteryOperations.exe.config
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\bin\Debug\MysteryOperations.exe
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\bin\Debug\MysteryOperations.pdb
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\obj\Debug\MysteryOperations.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\obj\Debug\MysteryOperations.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\obj\Debug\MysteryOperations.exe
+C:\Users\Nolan Pawelski\Desktop\MysteryOperations\obj\Debug\MysteryOperations.pdb
